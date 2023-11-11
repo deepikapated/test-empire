@@ -1,0 +1,23 @@
+2)Test case for cart and payment
+ ->verify that payment option should applicable to order should be displayed at cart
+-> verify that list of item are displayed at checkout
+-> verify that user can able to remove item  at checkout
+-> verify that user can increase quantity of item at checkout
+-> verify that user can redirect to home page after checkout
+ payment
+->verify that user should be  displayed payment option 
+->verify that user  details should displayed on payment page for registered customer.
+-> verify that if user didnot registered then  it should direct to register page.
+->verify that after payment is done user should get message and track of item.
+
+1)defect from image
+-> title is worng
+-> google search button : spelling mistake
+-> search input field : text is informal
+-> i'm feeling unlucky : its informal
+4)USER EXPERINCE
+-> text is not proper format
+-> alignment is not proper
+-> users will get bad impact on page
+-> users will feel  insecure.
+-> GUI testing is required 
